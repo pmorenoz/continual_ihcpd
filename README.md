@@ -4,6 +4,8 @@ We derive a continual learning mechanism that recursively infers the surrogate l
 
 <img src="tmp/ihcpd.png" width="400"> <img src="tmp/illustration_threads.png" width="400">
 
+Demonstrative video: [youtube](https://www.youtube.com/watch?v=ymZPNURhtIc)
+
 ## Potential Applications
 Infinite Hierarchical CPD models can be used, for instance, to detect change-points in high-dimensional time-series where the number of likelihood parameters is much larger than the partitions (segments between change-points). 
 
